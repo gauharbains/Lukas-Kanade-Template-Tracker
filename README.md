@@ -1,6 +1,9 @@
 # Lukas-Kanade-Template-Tracker
 
-The Lucas Kanade Template tracker has been implemented using python and OpenCV. The steps and the outline of the steps followed are given below. The repository consists of the code and the output videos. 
+- The Lucas Kanade Template tracker has been implemented using python and OpenCV. 
+- The repository consists of the code and output videos. 
+- The outline of the pipeline followed is shown below. Further information can be found in the reference paper in the repository.
+
 
 ## Outline of the Pipeline Followed : 
 A brief overview of the steps followed is given below. Technical background and the implementation of the LK tracking algorithm are described in Section 2 of Simon and Matthew's paper. The reference is provided below. 
