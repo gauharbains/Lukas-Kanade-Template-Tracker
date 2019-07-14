@@ -24,8 +24,8 @@ A brief overview of the steps followed is given below. Technical background and 
  ## Output (Output videos can be found in the repository)
  
 ### Output for Car Tracking 
-![car13](https://user-images.githubusercontent.com/48079888/61176916-24597d00-a597-11e9-8f1d-6944d5e8d4f5.jpg)
-![car168](https://user-images.githubusercontent.com/48079888/61176918-29b6c780-a597-11e9-8e87-15cd7c5c06a5.jpg)
+![ezgif-4-c60926022cae](https://user-images.githubusercontent.com/48079888/61188817-c38f7a80-a652-11e9-8436-03530e8edbfe.gif)
+
 ### Output for Human Tracking
-![human2](https://user-images.githubusercontent.com/48079888/61176920-33d8c600-a597-11e9-92d2-f5c2f1b78c82.jpg)
-![human182](https://user-images.githubusercontent.com/48079888/61176923-3a673d80-a597-11e9-823b-138a055cf868.jpg)
+![human gif](https://user-images.githubusercontent.com/48079888/61188839-21bc5d80-a653-11e9-9eec-848c88ab4578.gif)
+
